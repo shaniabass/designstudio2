@@ -1,0 +1,208 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: black;
+	font-family: "Arial Black";
+}
+
+h1{
+	color: white;
+	font-size: 100px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+a{
+	color: deeppink;
+	font-size: 100px;
+	text-align: center;
+	text-decoration: none;   
+}
+
+h4{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+h5{
+	color: deeppink;
+	font-size: 30px;
+	text-align: center;
+	line-height: 10px;
+}
+
+.center{
+	text-align: center;
+}
+
+a:hover{
+	color: white;
+	border-bottom: solid;
+	border-bottom-color: deeppink;
+	border-width: 10px;
+	margin-bottom: 0px;
+	
+}
+
+li{
+	color: white;
+	font-size: 50px;
+	line-height: 100px;
+}
+
+li:hover{
+	color: deeppink;
+}
+
+ol{
+	margin-left: 80px;
+}
+
+.small{
+	font-size: 50px;
+}
+
+.projects{
+	text-align: left;
+	margin-left: 40px;
+}
+
+.headers{
+	text-align: left;
+	margin-left: 55px;
+}
+
+.smallprojects{
+	font-size: 20px;
+	margin-left: 55px;
+	color: white;
+	line-height: 30px;
+	padding-top: 20px;
+}
+
+.smallhome{
+	font-size: 20px;
+	margin-left: 35px;
+	color: white;
+	line-height: 30px;
+	padding-top: 20px;
+}
+
+.smallhome:hover{
+	color: deeppink;
+	border-bottom: solid;
+	border-bottom-color: white;
+	border-width: 5px;
+}
+
+.smallprojects:hover{
+	color: deeppink;
+	border-bottom: solid;
+	border-bottom-color: white;
+	border-width: 5px;
+}
+
+.Billboard{
+	width:500px;
+	margin-top: -10px;
+}
+
+.Billboard2{
+	width:425px;
+	background-color: white;
+	margin-bottom: 25px;
+	margin-left: 60px;
+	margin-top: 0px;
+}
+
+.Billboard3{
+	width:470px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	margin-top: 0px;
+}
+
+.Billboard4{
+	width:425px;
+	background-color: white;
+	margin-top: 15px;
+	margin-left: 60px;
+	margin-bottom: 25px;
+}
+
+.Billboard5{
+	width:400px;
+	margin-top: 15px;
+	margin-left: 55px;
+	margin-bottom: 25px;
+}
+
+.Billboard6{
+	width:580px;
+	margin-top: 15px;
+	margin-left: 55px;
+	margin-bottom: 25px;
+	background-color: white;
+}
+
+.Billboard7{
+	width:400px;
+	margin-left: 55px;
+	margin-bottom: 25px;
+}
+
+.Billboard8{
+	width:600px;
+	margin-left: 55px;
+	margin-top: -55px;
+}
+
+.Billboard9{
+	width:400px;
+	margin-left: 55px;
+	margin-bottom: 25px;
+}
+
+label{
+	color: white;
+}
+
+p{
+	font-size: 15px;
+	margin-left: 55px;
+	color: white;
+	margin-top: -25px;
+	width: 80%;
+}
+
+.question{
+	font-size: 20px;
+}
+
+.pink{
+	color: deeppink;
+}
+
+audio{
+	margin-left: 55px;
+}
+
+video{
+	margin-left: 55px;
+}
+
+.sketches{
+	width: 200px;
+	background-color: white;
+	margin-left: 55px;
+}
+
+.sketchesHeader{
+	line-height: 50px;
+}
+
+.renderingsHeader{
+	line-height: 60px;
+}
